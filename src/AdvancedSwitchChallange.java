@@ -2,9 +2,12 @@ import java.util.Scanner;
 
 public class AdvancedSwitchChallange {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
+
         while (true) {
             System.out.println("-----Smart Text Processor-----");
+
             System.out.println("Enter your sentence: ");
             String text = sc.nextLine();
 
@@ -13,9 +16,9 @@ public class AdvancedSwitchChallange {
             System.out.println("3.Encryption (Enigma Lite)");
             System.out.println("4. Exit program");
             System.out.print("Select an option (1-4): ");
+
             int choice = sc.nextInt();
             sc.nextLine();
-
 
             if (choice == 4) {
                 System.out.println("Exiting..Have a good night Java Developer :)");
@@ -63,8 +66,8 @@ public class AdvancedSwitchChallange {
                         } else {
                             encryptedText += ch;
                         }
-                        System.out.println("Encrypted message: " + encryptedText);
                     }
+                    System.out.println("Encrypted message: " + encryptedText);
                     break;
                 default:
                     System.out.println("Invalid choice. System self-destructing..");
