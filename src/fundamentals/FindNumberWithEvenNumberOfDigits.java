@@ -1,3 +1,5 @@
+package fundamentals;
+
 public class FindNumberWithEvenNumberOfDigits {
     public static void main(String[] args) {
         System.out.println(findNumbers(new int[]{22,1,6,456,2}));

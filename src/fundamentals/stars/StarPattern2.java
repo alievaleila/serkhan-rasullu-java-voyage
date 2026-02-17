@@ -1,4 +1,4 @@
-package stars;
+package fundamentals.stars;
 
 public class StarPattern2 {
     public static void main(String[] args) {

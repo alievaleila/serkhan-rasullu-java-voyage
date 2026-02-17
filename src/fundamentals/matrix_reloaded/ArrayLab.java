@@ -1,4 +1,4 @@
-package matrix_reloaded;
+package fundamentals.matrix_reloaded;
 
 import java.util.Scanner;
 
