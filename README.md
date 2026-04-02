@@ -5,31 +5,16 @@ This repository is a comprehensive log of my progress through the "Sıfırdan So
 
 ## 🛠️ Tech Stack
 
-Core & Algorithms
+Java Core & Advanced: Java SE (8/11/17+), OOP Principles, Collections Framework, Multithreading & Concurrency.
 
-<p align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Algorithms-Logic-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-Design_Patterns-orange?style=for-the-badge" />
-</p>
+Algorithms & Data Structures: Logic building, Big O Analysis, Array & Matrix manipulations.
 
-Backend Frameworks
+Backend Frameworks: Spring Boot, Spring Data JPA, Spring Security.
 
-<p align="left">
-<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-Scalability-red?style=for-the-badge" />
-</p>
+Architecture: Microservices, Restful APIs, Java EE (Servlets, JSP).
 
-Build & Tools
+Build Tools: Maven, Gradle, Ant.
 
-<p align="left">
-<img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
+Version Control & DevOps: Git (GitHub), Linux Terminal, Shell Scripting.
 ## 💡 Why this matters?
 This repository is the foundation of my Java career. It showcases my ability to follow a professional curriculum, solve complex tasks, and organize my growth as a Backend Developer.
